@@ -1,8 +1,10 @@
+package Fg;
+
 /**
  * Created by Kostyan on 17.06.2016.
  */
-public class a {
+public class tert {
     public static void main(String[] args) {
-        System.out.println("jkll");
+        System.out.println("gfrg");
     }
 }
